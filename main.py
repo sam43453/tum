@@ -106,7 +106,7 @@ KEY_PRICES = {
 
 
 ADMIN_IDS = [1419969308]  # Replace with actual admin IDs
-BOT_TOKEN = "8185809798:AAEvA8T9evqeDzI2Prf-BKS1TaqyPbwPeqc"  # Replace with your bot token
+BOT_TOKEN = "7593929798:AAHdM-QgB74U_KKpry-Tvj06pMBe3x3K5Gk"  # Replace with your bot token
 
 ADMIN_FILE = 'admin_data.json'
 VPS_FILE = 'vps_data.json'
